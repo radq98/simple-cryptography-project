@@ -1,0 +1,10 @@
+C:\Users\Radek\Desktop\Projekty programowanie\Kryptografia2\Kryptografia2\bin\Debug\Kryptografia2.exe.config
+C:\Users\Radek\Desktop\Projekty programowanie\Kryptografia2\Kryptografia2\bin\Debug\Kryptografia2.exe
+C:\Users\Radek\Desktop\Projekty programowanie\Kryptografia2\Kryptografia2\bin\Debug\Kryptografia2.pdb
+C:\Users\Radek\Desktop\Projekty programowanie\Kryptografia2\Kryptografia2\obj\Debug\Kryptografia2.csprojAssemblyReference.cache
+C:\Users\Radek\Desktop\Projekty programowanie\Kryptografia2\Kryptografia2\obj\Debug\Kryptografia2.Form1.resources
+C:\Users\Radek\Desktop\Projekty programowanie\Kryptografia2\Kryptografia2\obj\Debug\Kryptografia2.Properties.Resources.resources
+C:\Users\Radek\Desktop\Projekty programowanie\Kryptografia2\Kryptografia2\obj\Debug\Kryptografia2.csproj.GenerateResource.cache
+C:\Users\Radek\Desktop\Projekty programowanie\Kryptografia2\Kryptografia2\obj\Debug\Kryptografia2.csproj.CoreCompileInputs.cache
+C:\Users\Radek\Desktop\Projekty programowanie\Kryptografia2\Kryptografia2\obj\Debug\Kryptografia2.exe
+C:\Users\Radek\Desktop\Projekty programowanie\Kryptografia2\Kryptografia2\obj\Debug\Kryptografia2.pdb
